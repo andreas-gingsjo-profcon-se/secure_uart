@@ -1,0 +1,5 @@
+*.o
+*.d
+/example
+/dfu_example
+/simple_example
